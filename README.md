@@ -46,6 +46,9 @@
   ```
   npm test
   ```
+
+  ## Video Link
+  ![generator-walk-through] (agReadMeGen.gif)
   
   ## Questions
   
