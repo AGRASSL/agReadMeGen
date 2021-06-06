@@ -3,7 +3,7 @@
   
   ## Description
   
-  The following project is a created tool to help generate a ReadMe file for repositories on github. When the user runs node in terminal for the index file, they are prompted with section questions that will generate a complete ReadMe. In order to do this, the ReadMe generator utilizes the npm package "inquirer".
+  This project is a ReadMe generator to allow individuals to create a quick and complete ReadMe file while utilizing npm's inquirer package. Users will install the package, initialize the programe with "node index.js" and complete the prompts. When fully completed, the program will populate the file.
   
   ## Table of Contents 
   
@@ -24,12 +24,12 @@
   To install necessary dependencies, run the following command:
   
   ```
-  npm i
+  npm install inquirer
   ```
   
   ## Usage
   
-  Make sure to install all dependencies prior to running the project, otherwise the project will not generate desired file.
+  Make sure to install dependencies prior to running the program.
   
   ## License
   
@@ -37,7 +37,7 @@
     
   ## Contributing
   
-  All contributions are welcome to this repository. Please feel free to branch or fork.
+  Contributions and requests are fully encouraged upon request.
   
   ## Tests
   
