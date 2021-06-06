@@ -48,7 +48,7 @@
   ```
 
   ## Video Link
-  ![generator-walk-through] (agReadMeGen.gif)
+  ![generator-walk-through] (agReadMeGen/agReadMeGen.gif)
   
   ## Questions
   
